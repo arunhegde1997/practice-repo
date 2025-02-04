@@ -1,3 +1,7 @@
 Hello World!
 
 Myself Arun. I am a front-end developer!
+
+I am feeling very good about myself. 
+
+With my hands-on experience with Git and GitHub, I can land a good first job.
